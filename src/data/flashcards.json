@@ -1,0 +1,419 @@
+[
+    {
+        "id": 1,
+        "aluno": 102,
+        "frente": "Quais são as consequências para agentes públicos que cometem atos de improbidade administrativa?",
+        "verso": "Os atos de improbidade, conforme a Lei nº 8.429/1992, podem resultar em perda da função pública, suspensão dos direitos políticos, multa civil e ressarcimento ao erário, desde que haja dolo. A EC 115/2022 retirou a menção à improbidade do art. 37, § 4º, da CF."
+    },
+    {
+        "id": 2,
+        "aluno": 100,
+        "frente": "Aos servidores titulares de cargos EFETIVOS da União, dos Estados, do DF e dos Municípios, são formas de aposentadoria:",
+        "verso": "I- por invalidez permanente;\nII- compulsoriamente aos 70 anos;\nIII- voluntariamente, desde que cumprido tempo mínimo de dez (10) anos de efetivo exercício no serviço público e cinco (5) anos no cargo."
+    },
+    {
+        "id": 3,
+        "aluno": 100,
+        "frente": "Acerca dos Servidores Públicos da União, DF, estados e municípios, a fixação dos padrões de vencimento deverá observar a quais critérios?",
+        "verso": "I - por invalidez permanente.\n II- compulsoriamente aos 70 anos.\n III- voluntariamente, desde que cumprido tempo mínimo de dez (10) anos de efetivo exercício no serviço público e cinco (5) anos no cargo."
+    },
+    {
+        "id": 4,
+        "aluno": 102,
+        "frente": "Os servidores públicos civis e militares possuem os mesmos direitos quanto à associação sindical e ao direito de greve?",
+        "verso": "Não. A Constituição garante aos servidores civis o direito à livre associação sindical e à greve, nos termos de lei específica (art. 37, VI e VII). Já os militares não podem se sindicalizar nem fazer greve."
+    },
+    {
+        "id": 5,
+        "aluno": 103,
+        "frente": "Qual poder limita os valores de vencimentos pagos aos outros poderes através do seu vencimento máximo recebido?",
+        "verso": "Poder Executivo "
+    },
+    {
+        "id": 6,
+        "aluno": 103,
+        "frente": "É possível que aconteça reajuste automático de vencimentos, a partir da vinculação de um cargo a outro?",
+        "verso": "É VEDADA a vinculação ou equiparação de quaisquer espécies remuneratórias para o efeito de remuneração de pessoal do serviço público."
+    },
+    {
+        "id": 7,
+        "aluno": 104,
+        "frente": "HIERARQUIA E DISCIPLINA: O que é cada uma?",
+        "verso": "A  hierarquia é a organização e a ordem de prioridade entre as relações de subordinação entre os membros de um grupo, com graus sucessivos de poderes, diferenciando-se, por exemplo, pelos postos ou graduações, ou até mesmo pela antiguidade."
+    },
+    {
+        "id": 8,
+        "aluno": 104,
+        "frente": "Qual a  importância da Hierarquia e Disciplina no Militarismo?",
+        "verso": "Hierarquia e disciplina são os pilares que sustentam as Instituições Militares, por serem os referenciais mais importantes que orientam toda a estrutura militar, cuja rigorosa observância desses dois princípios é condição fundamental para a sua existência."
+    },
+    {
+        "id": 9,
+        "aluno": 105,
+        "frente": "Quais são os Órgãos de Segurança Pública segundo o Art 144",
+        "verso": "I - PF \nII - PRF\nIII - PFF;\nIV - PC;\nV - PM e CBM.\nVI - Polícias Penais federal, estaduais e distrital.\n\nObs.: Guarda Municipal tem Divergência ainda."
+    },
+    {
+        "id": 10,
+        "aluno": 105,
+        "frente": "Quais atribuições Constitucionais do Corpo de Bombeiros?",
+        "verso": "Execução de atividades de defesa civil.\n\n\"além das atribuições definidas em lei\"\n\nNa Constituição ESTADUAL BA\nArt. 148-A Emenda de 2014\nI - defesa civil;\nII - prevenção e combate a incêndios e a situações de pânico;\nIII - busca, resgate e salvamento de pessoas e bens ...\nIV - instrução e orientação de bombeiros voluntários, onde houver;\nV - polícia judiciária militar, a ser exercida em relação a seus integrantes, na forma da lei federal."
+    },
+    {
+        "id": 11,
+        "aluno": 107,
+        "frente": "Quais são os entes da organização político-administrativa do Brasil?",
+        "verso": "A União, os Estados, o Distrito Federal e os Municípios. Apenas a União é soberana, os outros são autônomos."
+    },
+    {
+        "id": 12,
+        "aluno": 107,
+        "frente": "O que é necessário para fundir , dividir ou desmembrar Estados e Municípios?",
+        "verso": "Estados: Plebiscito, aprovação do Congresso por Lei Complementar e consulta às Assembleias Legislativas. Municípios: Lei Estadual, plebiscito e estudos de viabilidade, mas falta uma Lei Complementar Federal para regulamentar isso."
+    },
+    {
+        "id": 13,
+        "aluno": 108,
+        "frente": "Salvador tem aproximadamente 2.568.928, qual o limite máximo de vereadores ?",
+        "verso": "43"
+    },
+    {
+        "id": 14,
+        "aluno": 108,
+        "frente": "Complete a sentença:\nCompete ao município manter, com a____ da União e do Estado, programas de ___ e de ___.",
+        "verso": "Cooperação técnica e financeira, educação infantil, ensino fundamental."
+    },
+    {
+        "id": 15,
+        "aluno": 109,
+        "frente": "O que são competências concorrentes entre os entes federativos?",
+        "verso": "São competências que tanto a União quanto os Estados e o Distrito Federal são capazes de legislar  "
+    },
+    {
+        "id": 16,
+        "aluno": 109,
+        "frente": "Quais são os entes federativos adotados pelo Brasil?",
+        "verso": "UNIÃO\nESTADOS\nMUNICÍPIOS\nDISTRITO FEDERAL"
+    },
+    {
+        "id": 17,
+        "aluno": 110,
+        "frente": "O que vem a ser esse, Princípio da Indissolubilidade?",
+        "verso": "Este trata do Pacto Federativo, ou seja; determina que a união dos Estados-membros, do Distrito Federal e dos Municípios não poderá ser desfeita."
+    },
+    {
+        "id": 18,
+        "aluno": 110,
+        "frente": "Para que serve o sistema de freios e contrapesos entre os poderes se eles tem independência e harmonia entre si?",
+        "verso": "Para que os poderes EX, LEG e JUD possam “supervisionar”, influenciar e  limitar  as ações uns dos outros.  Garantindo assim. o equilíbrio entre os poderes"
+    },
+    {
+        "id": 19,
+        "aluno": 111,
+        "frente": "Quais são as principais atribuições da Polícia Militar, Polícia Civil e Corpo de Bombeiros Militar na Constituição do Estado da Bahia?",
+        "verso": " PMBA: Policiamento ostensivo e preservação da ordem pública.BMBA: Combate a incêndios, salvamento, defesa civil e prevenção de desastres.Polícia Civil: Polícia judiciária e investigação criminal no estado"
+    },
+    {
+        "id": 20,
+        "aluno": 111,
+        "frente": "O que estabelecem os artigos 146 e 148 da Constituição do Estado da Bahia sobre segurança pública?",
+        "verso": "Art. 146: Regula a organização do sistema de segurança pública, detalhando as atribuições das polícias Civil, Militar e Bombeiros. Art. 148: Define PMBA e CBMBA como instituições permanentes, organizadas com hierarquia e disciplina, subordinadas ao governador."
+    },
+    {
+        "id": 21,
+        "aluno": 112,
+        "frente": "O que é a Pirâmide Normativa de Hans Kelsen?",
+        "verso": "É uma representação hierárquica do sistema jurídico, onde as normas são organizadas conforme sua importância e validade. Cada norma inferior deve estar de acordo com uma norma superior, tendo a Constituição no topo."
+    },
+    {
+        "id": 22,
+        "aluno": 112,
+        "frente": "Como as normas são organizadas na Pirâmide de Kelsen?",
+        "verso": "Constituição (norma superior)\nLeis complementares e ordinárias\nRegulamentos e decretos\nNormas individuais e concretas"
+    },
+    {
+        "id": 23,
+        "aluno": 113,
+        "frente": "Fundamentos da República Federativa do Brasil,conforme o artigo 1º da Constituição de 1988",
+        "verso": "Soberania,Cidadania, Dignidade da pessoa humana,Valores sociais do trabalho e da livre iniciativa e Pluralismo político"
+    },
+    {
+        "id": 24,
+        "aluno": 113,
+        "frente": "O que trata o Artigo 5º da Constituição Federal de 1988?",
+        "verso": "O Artigo 5º estabelece os direitos e garantias fundamentais dos cidadãos, assegurando liberdade, igualdade, segurança e propriedade a todos os indivíduos no Brasil."
+    },
+    {
+        "id": 25,
+        "aluno": 113,
+        "frente": "Consequências previstas pelo inciso XLIII do Artigo 5º da Constituição para certos crimes:",
+        "verso": "O inciso XLIII determina que a tortura, o tráfico de drogas, o terrorismo e os crimes hediondos são inhafiançáveis e imprescritíveis, ou seja, não podem ser perdoados, anistiados ou prescrever ao longo do tempo."
+    },
+    {
+        "id": 26,
+        "aluno": 113,
+        "frente": "O que estabelece o inciso XLII do Artigo 5º?",
+        "verso": "O inciso XLII trata da impunidade para a prática de racismo, classificando-o como crime inafiançável e imprescritível, com pena de reclusão."
+    },
+    {
+        "id": 27,
+        "aluno": 114,
+        "frente": "Complete a sentença:\nO Município reger-se-á por ____, votada em ____, com o _____, e aprovada por___ dos membros da Câmara Municipal.",
+        "verso": "Lei orgânica, dois turnos, interstício mínimo de dez dias, dois terços"
+    },
+    {
+        "id": 28,
+        "aluno": 113,
+        "frente": "Complete a sentença:\nA fiscalização do Município será exercida pelo Poder ___ Municipal, mediante ____ e pelos sistemas de ____ do Poder ____ Municipal.",
+        "verso": "legislativo, controle externo, controle interno, executivo"
+    },
+    {
+        "id": 29,
+        "aluno": 115,
+        "frente": "Qual a diferença entre concessão e permissão de serviço público?",
+        "verso": "A concessão é formalizada por contrato e exige licitação; a permissão é um ato unilateral e discricionário do Estado"
+    },
+    {
+        "id": 30,
+        "aluno": 115,
+        "frente": "Em que situações o Estado pode ser responsabilizado por danos causados a terceiros?",
+        "verso": "Quando houver ação ou omissão de agente público que cause prejuízo a terceiros, sendo aplicada a responsabilidade objetiva"
+    },
+    {
+        "id": 31,
+        "aluno": 113,
+        "frente": "Quais são os tipos de licença previstos no Estatuto dos Militares da Bahia?",
+        "verso": "1. Licença para tratar de interesses particulares\n2. Licença médica\n3. Licença por motivo de doença em pessoa da família\n4. Licença à gestante (licença maternidade)\n5. Licença paternidade\n6. Licença para tratamento de saúde em caso de acidente de serviço\n7. Licença especial"
+    },
+    {
+        "id": 32,
+        "aluno": 113,
+        "frente": "Qual o período da licença à gestante prevista no Estatuto dos Militares da Bahia?",
+        "verso": "A licença à gestante (licença maternidade) no Estatuto dos Militares da Bahia é de 180 dias (6 meses), podendo ser dividida entre o período pré e pós-parto, conforme a regulamentação do estatuto."
+    },
+    {
+        "id": 33,
+        "aluno": 117,
+        "frente": "Quais são os tipos de autonomia dos estados federados segundo a Constituição Federal?",
+        "verso": "Os estados possuem autonomia financeira, administrativa e política, o que inclui a capacidade de auto-organização, autogoverno, autolegislação e autoadministração."
+    },
+    {
+        "id": 34,
+        "aluno": 117,
+        "frente": "Quais são os tipos de competências dos estados e como elas se dividem?",
+        "verso": "A competência administrativa pode ser comum (Art. 23 CF) ou residual (tudo que não for da União, DF ou Municípios). A competência legislativa pode ser expressa, residual, delegada, concorrente ou suplementar, além da competência tributária (Art. 155 CF)."
+    },
+    {
+        "id": 35,
+        "aluno": 118,
+        "frente": "Sabendo que as competências privadas podem ser delegadas para outro ente, são exemplos de competência privada da União?",
+        "verso": "- Direito civil, comercial, penal, processual...\n- Desapropriação\n- Requisições civis e militares (Em iminente perigo ou em tempo de guerra)\n- Água, Energia, informática, telecomunicações e radiodifusão\n- Serviço Postal\n- Sistema Monetário\n- Trânsito e transporte."
+    },
+    {
+        "id": 36,
+        "aluno": 113,
+        "frente": "São competências materiais COMUNS da União, Estados, Distrito Federal e Municípios?",
+        "verso": "- Zelar pela guarda da Constituição.\n- Cuidar da saúde e assistência, da proteção e garantia das pessoas com deficiências\n- Impedir a evasão, a destruição e a descaracterização de obras de arte.\n- Proteger o meio ambiente e combater a poluição.\n- Preservar as florestas, a fauna e a flora.\n- Fomentar a produção agropecuária\n- Promover programas de construção de moradia."
+    },
+    { 
+        "id": 37,
+        "aluno": 119,
+        "frente": "O que são Atos Vinculados? ", 
+        "verso": "• São aqueles em que\na autoridade ou o servidor público\n não tem escolha sobre como agir.\na lei já diz exatamente o que deve ser feito em determinada situação, e a única coisa que a pessoa responsável precisa fazer é seguir a regra à risca\n•Não há espaço para interpretação ou decisão pessoal."
+     },{ 
+        "id": 38,
+        "aluno": 119,
+        "frente": "O que são Atos Descricionários?", 
+        "verso": " • São aqueles em que a autoridade tem liberdade para escolher entre várias opções previstas pela lei.\nA lei dá um certo espaço para o servidor decidir o que é mais adequado ou conveniente para aquela situação, levando em consideração o interesse público."
+     },{ 
+        "id": 39,
+        "aluno": 120,
+        "frente": "1- Habeas Corpus\n2- Habeas Data\n3- Mandado de Segurança", 
+        "verso": "1- Proteger o direito de locomoção contra ameaça ou violação por abuso de autoridade.\n2- Assegurar o acesso a informações pessoais em registros de entidades governamentais ou de caráter público, bem como solicitar sua retificação.\n3- Proteger direito líquido e certo não amparado por habeas corpus ou habeas data, contra ilegalidade ou abuso de poder."
+     },{ 
+        "id": 40,
+        "aluno": 120,
+        "frente": "1- Mandado de Segurança Coletivo\n2- Mandado de Injunção\n3- Ação Popular", 
+        "verso": "1- Proteção de direitos coletivos por partidos políticos, sindicatos, entidades de classe ou associações legalmente constituídas.\n2- Garantir o exercício de um direito ou liberdade constitucionalmente assegurados quando houver ausência de norma regulamentadora.\n3-  Anular atos lesivos ao patrimônio público, à moralidade administrativa, ao meio ambiente e ao patrimônio histórico e cultural."
+     },{ 
+        "id": 41,
+        "aluno": 120,
+        "frente": "Hipótese de extradição", 
+        "verso": "Nenhum brasileiro será extraditado, salvo o naturalizado, em caso de crime comum, praticado antes da naturalização(1), ou de comprovado envolvimento em tráfico(2) ilícito de entorpecentes e drogas afins, na forma da lei"
+     },{ 
+        "id": 42,
+        "aluno": 120,
+        "frente": "Caso de prisão em flagrante", 
+        "verso": "Ninguém será preso senão em flagrante(1) delito ou por ordem escrita e fundamentada de autoridade judiciária(2) competente, salvo nos casos de transgressão militar ou crime propriamente militar, definidos em lei."
+     },{ 
+        "id": 43,
+        "aluno": 121,
+        "frente": "Quais são os requisitos para aposentadoria voluntária no RPPS?", 
+        "verso": "Com proventos integrais: 60 anos (homem) e 55 anos (mulher) + 35 e 30 anos de contribuição, respectivamente.\nCom proventos proporcionais: 65 anos (homem) e 60 anos (mulher), sem exigência mínima de contribuição."
+     },{ 
+        "id": 44,
+        "aluno": 121,
+        "frente": "Como é calculada a pensão por morte no RPPS?", 
+        "verso": "Caso aposentado: totalidade dos proventos até o teto do RGPS + 70% do que exceder.\nCaso em atividade: totalidade da remuneração até o teto do RGPS + 70% do que exceder."
+     },{ 
+        "id": 45,
+        "aluno": 122,
+        "frente": "Quais são os direitos dos trabalhadores urbanos e rurais?", 
+        "verso": "Salário mínimo, jornada máxima de 8h diárias, descanso semanal, FGTS, férias, 13º salário e licença-maternidade/paternidade."
+     },{ 
+        "id": 46,
+        "aluno": 122,
+        "frente": "Como funciona a participação dos trabalhadores na gestão das empresas?", 
+        "verso": "A CF prevê essa participação, mas sua regulamentação depende de lei."
+     },{ 
+        "id": 47,
+        "aluno": 122,
+        "frente": "O direito ao trabalho é absoluto?", 
+        "verso": "Não. Pode ser regulamentado por leis que definem condições e limitações, como idade mínima e exigências profissionais."
+     },{ 
+        "id": 48,
+        "aluno": 122,
+        "frente": "O que significa a função social da propriedade?", 
+        "verso": "A propriedade privada deve atender ao interesse coletivo, podendo ser desapropriada se não cumprir sua função social."
+     },{ 
+        "id": 49,
+        "aluno": 123,
+        "frente": "Quem são considerados brasileiros natos? ", 
+        "verso": "Nascidos no Brasil, mesmo com pais estrangeiros (exceto se a serviço do país deles).\nNascidos no exterior, filhos de pai ou mãe brasileira a serviço do Brasil."
+     },{ 
+        "id": 50,
+        "aluno": 123,
+        "frente": "Qual critério define a antiguidade em nomeações coletivas por conclusão de curso ou promoção?", 
+        "verso": "A ordem de classificação obtida no curso."
+     },{ 
+        "id": 51,
+        "aluno": 124,
+        "frente": "PRINCÍPIOS DO DIREITO ADMINISTRATIVO", 
+        "verso": "1- Legalidade: Agir com autorização da lei\n2- Impessoalidade: Atender ao interesse público\n3- Moralidade: Padrões éticos e agir com probidade\n4- Publicidade: Transparência nos atos\n5- Eficiência: Rapidez, perfeição e rendimento"
+     },{ 
+        "id": 52,
+        "aluno": 124,
+        "frente": "ENTES FEDERATIVOS", 
+        "verso": "O Estado brasileiro é uma federação composta por União, Estados, Municípios e o Distrito Federal, que possuem autonomia política, administrativa e financeira"
+     },{ 
+        "id": 53,
+        "aluno": 125,
+        "frente": "QUAIS SÃO AS 4 CAUSAS DE PERDA DO CARGO PARA O SERVIDOR PÚBLICO ESTÁVEL?", 
+        "verso": "APÓS SENTENÇA JUDICIAL TRANSITADA EM JULGADO;  PROCESSO ADMINISTRATIVO;  AVALIAÇÃO PERIÓDICA DE DESEMPENHO; OU QUANDO Extinto o cargo ou declarada a sua desnecessidade. "
+     },{ 
+        "id": 54,
+        "aluno": 125,
+        "frente": "NO CASO DE EXTINÇÃO DO CARGO PÚBLICO OU DECLARAÇÃO DE SUA DESNECESSIDADE, O QUE OCORRE COM O SERVIDOR ESTÁVEL?", 
+        "verso": "Ficará em disponibilidade, com remuneração proporcional ao tempo de serviço, até seu adequado aproveitamento em outro cargo."
+     },{ 
+        "id": 55,
+        "aluno": 101,
+        "frente": "Sobre os direitos políticos, Quem são inelegíveis?", 
+        "verso": "Os inalistáveis (estrangeiros e conscritos) e os analfabetos."
+     },{ 
+        "id": 56,
+        "aluno": 101,
+        "frente": "O alistamento eleitoral e o voto são facultativos para:", 
+        "verso": "• Os analfabetos.\n• Os maiores de setenta (70) anos.\n• Os maiores de dezesseis e menores de dezoito anos."
+     },{ 
+        "id": 57,
+        "aluno": 126,
+        "frente": "Qual é o desafio da aplicação do Direito Administrativo nas corporações militares?", 
+        "verso": "O desafio é equilibrar a hierarquia e a disciplina com a necessidade de garantir direitos constitucionais e a eficiência administrativa, evitando que o excesso de formalismo prejudique a justiça e a modernização dos processos."
+     },{ 
+        "id": 58,
+        "aluno": 126,
+        "frente": "Como é estruturada a hierarquia dentro do CBMBA?", 
+        "verso": "A hierarquia segue uma organização baseada em patentes, onde os bombeiros são distribuídos em diferentes níveis de comando. Essa estrutura garante disciplina, coordenação eficiente das operações e cumprimento das ordens de forma organizada, respeitando a cadeia de comando estabelecida."
+     },{ 
+        "id": 59,
+        "aluno": 127,
+        "frente": "Segundo o Estatuto Militar da Bahia, o que é Graduação?", 
+        "verso": "Graduação é o grau hierárquico da praça, conferido por Autoridade militar competente"
+     },{ 
+        "id": 60,
+        "aluno": 127,
+        "frente": "Segundo o Estatuto Militar da Bahia, o que é Posto ?", 
+        "verso": "Posto é o grau hierárquico do Oficial, conferido por ato do Governador do Estado e registrado em Carta Patente"
+     },{ 
+        "id": 61,
+        "aluno": 128,
+        "frente": "Para que serve e como está dividida a pirâmide normativa?", 
+        "verso": "É uma representação hierárquica do sistema jurídico, onde as normas são organizadas de acordo com seu grau de importância e validade. Segundo Kelses está dividida em 4 partes: Constituição; Leis complementares e ordinárias; Regulamentos, Decretos e Normas Infralegais; Atos Administrativos."
+     },{ 
+        "id": 62,
+        "aluno": 128,
+        "frente": "Como funciona o princípio da hieraquia?", 
+        "verso": "A ideia central da pirâmide normativa é que uma norma inferior só é válida se for compatível com a norma superior, e qualquer contradição com normas de níveis mais elevados pode gerar a nulidade da norma inferior."
+     },{ 
+        "id": 63,
+        "aluno": 129,
+        "frente": "Aguns bens da União:", 
+        "verso": " VI - o mar territorial\nVIII - os potenciais de energia hidráulica;"
+     },{ 
+        "id": 64,
+        "aluno": 129,
+        "frente": "COMPETE A UNIAO", 
+        "verso": "II - declarar a guerra e celebrar a paz;\nVII - emitir moeda;"
+     },{ 
+        "id": 65,
+        "aluno": 130,
+        "frente": "A União pode intervir nos Estados ou no DF para assegurar os seguintes princípios constituicionais:", 
+        "verso": "a) forma republicana, sistema representativo e regime democrático;\nb) direitos da pessoa humana;\nc) autonomia municipal;\nd) prestação de contas da administração pública, direta e indireta.\ne) aplicação do mínimo exigido da receita resultante de impostos estaduais, compreendida a proveniente de transferências, na manutenção e desenvolvimento do ensino e nas ações e serviços públicos de saúde."
+     },{ 
+        "id": 66,
+        "aluno": 130,
+        "frente": "O Estado não intervirá em seus Municípios, nem a União nos Municípios localizados em Território Federal, exceto quando:", 
+        "verso": " I - deixar de ser paga, sem motivo de força maior, por dois anos consecutivos, a dívida fundada;\nII - não forem prestadas contas devidas, na forma da lei;\nIII - não tiver sido aplicado o mínimo exigido da receita municipal na manutenção e desenvolvimento do ensino e nas ações e serviços públicos de saúde;\nIV - o Tribunal de Justiça der provimento a representação para assegurar a observância de princípios indicados na Constituição Estadual, ou para prover a execução de lei, de ordem ou de decisão judicial."
+     },{ 
+        "id": 67,
+        "aluno": 131,
+        "frente": "O que é o princípio da autonomia dos entes federativos?", 
+        "verso": "União, Estados, Municípios e DF possuem autonomia administrativa, financeira e legislativa, podendo criar leis, gerir recursos e atuar conforme suas atribuições."
+     },{ 
+        "id": 68,
+        "aluno": 131,
+        "frente": "Quais são os órgãos da Segurança Pública segundo o Art. 144 da CF?", 
+        "verso": "Polícia Federal, Polícia Rodoviária Federal, Polícia Ferroviária Federal, Polícias Civis, Polícias Militares e Corpo de Bombeiro Militares e Polícias Penais Federal, Estaduais e Distrital."
+     },{ 
+        "id": 69,
+        "aluno": 132,
+        "frente": "O Distrito Federal pode ser dividido em municípios?", 
+        "verso": "Não, a Constituição Federal veda a divisão do Distrito Federal em municípios."
+     },{ 
+        "id": 70,
+        "aluno": 132,
+        "frente": "Quem é responsável por dispor sobre a utilização das forças de segurança no Distrito Federal?", 
+        "verso": "A regulamentação sobre a utilização da polícia civil, polícia penal, polícia militar e do corpo de bombeiros militar pelo Governo do Distrito Federal é feita por lei federal."
+     },{ 
+        "id": 71,
+        "aluno": 132,
+        "frente": "Quais são os requisitos para a promulgação da lei orgânica do Distrito Federal?", 
+        "verso": "A lei orgânica do Distrito Federal deve ser votada em dois turnos, com um interstício mínimo de dez dias entre as votações, e ser aprovada por dois terços da Câmara Legislativa, que a promulgará, atendendo aos princípios estabelecidos na Constituição."
+     },{ 
+        "id": 72,
+        "aluno": 132,
+        "frente": "Como é organizada a administração nos Territórios Federais com mais de cem mil habitantes?", 
+        "verso": "Nos Territórios Federais com mais de cem mil habitantes, além do Governador nomeado, haverá órgãos judiciários de primeira e segunda instância, membros do Ministério Público e defensores públicos federais. Também serão realizadas eleições para a Câmara Territorial, que terá competência deliberativa, conforme definido em lei."
+     },{ 
+        "id": 73,
+        "aluno": 106,
+        "frente": "Quais os principios gerais do direito?", 
+        "verso": "• Legalidade\n• Igualdade\n• Boa-fé\n• Segurança Juridica\n• Proporcionalidade"
+     },{ 
+        "id": 74,
+        "aluno": 106,
+        "frente": "Quais os principios gerais do direito constitucional?", 
+        "verso": "• Supremacia da constituição\n• Dignidade da Pessoa Humana\n• Separação dos Poderes\n• Democracia\n• Legalidade"
+    },{ 
+        "id": 75,
+        "aluno": 116,
+        "frente": "Quais são os tipos de licença previstos no Estatuto dos Militares da Bahia?", 
+        "verso": "1. Licença para tratar de interesses particulares\n2. Licença médica\n3. Licença por motivo de doença em pessoa da família\n4. Licença à gestante (licença maternidade)\n5. Licença paternidade\n6. Licença para tratamento de saúde em caso de acidente de serviço\n7. Licença especial"
+    },{ 
+        "id": 76,
+        "aluno": 116,
+        "frente": "Qual o período da licença à gestante prevista no Estatuto dos Militares da Bahia?", 
+        "verso": "A licença à gestante (licença maternidade) no Estatuto dos Militares da Bahia é de 180 dias (6 meses), podendo ser dividida entre o período pré e pós-parto, conforme a regulamentação do estatuto."
+    }
+]
