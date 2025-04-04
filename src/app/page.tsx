@@ -13,6 +13,7 @@ export default function FlashcardsPage() {
   const [nomeAlunos] = useState(alunos);
   const [flippedCards, setFlippedCards] = useState<{[key: number]: boolean}>({});
   const scrollContainerRef = useRef<HTMLDivElement>(null);
+  const numbers = [10,36,39,40,61,65,66,72]
 
 
   const toggleCardFlip = (cardId: number) => {
@@ -78,8 +79,8 @@ export default function FlashcardsPage() {
                     flippedCards[card.id] ? 'rotate-y-180 opacity-100' : 'rotate-y-180 opacity-0'
                   }`}
                 >
-                  <div className='flex bg-white w-full p-2 font-bold text-lg'>
-
+                  <div className={`flex bg-white w-full p-2 font-bold ${numbers.includes(card.id) ? "text-sm" : "text-lg"}`}
+>
                   {card.back}
                   </div>
                 </div>
