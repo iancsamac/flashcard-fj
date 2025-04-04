@@ -18,7 +18,17 @@ export const flashCards = [
       aluno: "100",
       front: "Acerca dos Servidores Públicos da União, DF, estados e municípios, a fixação dos padrões de vencimento deverá observar a quais critérios?",
       back: "I- a natureza, o grau de responsabilidade e a complexidade dos cargos de cada carreira;\nII- os requisitos para  a investidura;\nIII- as peculiaridades do cargo."
-  },
+  },{ 
+      id: 55,
+      aluno: "101",
+      front: "Sobre os direitos políticos, Quem são inelegíveis?", 
+      back: "Os inalistáveis (estrangeiros e conscritos) e os analfabetos."
+   },{ 
+      id: 56,
+      aluno: "101",
+      front: "O alistamento eleitoral e o voto são facultativos para:", 
+      back: "• Os analfabetos.\n• Os maiores de setenta (70) anos.\n• Os maiores de dezesseis e menores de dezoito anos."
+   },
   {
     id: 3,
     aluno: "102",
@@ -66,8 +76,20 @@ export const flashCards = [
       aluno: "105",
       front: "Quais atribuições Constitucionais do Corpo de Bombeiros?",
       back: "Execução de atividades de defesa civil.\n\n\"além das atribuições definidas em lei\"\n\nNa Constituição ESTADUAL BA\nArt. 148-A Emenda de 2014\nI - defesa civil;\nII - prevenção e combate a incêndios e a situações de pânico;\nIII - busca, resgate e salvamento de pessoas e bens ...\nIV - instrução e orientação de bombeiros voluntários, onde houver;\nV - polícia judiciária militar, a ser exercida em relação a seus integrantes, na forma da lei federal."
-  },
-  {
+   },
+   { 
+      id: 73,
+      aluno: "106",
+      front: "Quais os principios gerais do direito?", 
+      back: "• Legalidade\n• Igualdade\n• Boa-fé\n• Segurança Juridica\n• Proporcionalidade"
+   },
+   { 
+      id: 74,
+      aluno: "106",
+      front: "Quais os principios gerais do direito constitucional?", 
+      back: "• Supremacia da constituição\n• Dignidade da Pessoa Humana\n• Separação dos Poderes\n• Democracia\n• Legalidade"
+   },
+   {
       id: 11,
       aluno: "107",
       front: "Quais são os entes da organização político-administrativa do Brasil?",
@@ -186,8 +208,17 @@ export const flashCards = [
       aluno: "115",
       front: "Em que situações o Estado pode ser responsabilizado por danos causados a terceiros?",
       back: "Quando houver ação ou omissão de agente público que cause prejuízo a terceiros, sendo aplicada a responsabilidade objetiva"
-  },
-  {
+  },{ 
+      id: 75,
+      aluno: "116",
+      front: "Quais são os tipos de licença previstos no Estatuto dos Militares da Bahia?", 
+      back: "1. Licença para tratar de interesses particulares\n2. Licença médica\n3. Licença por motivo de doença em pessoa da família\n4. Licença à gestante (licença maternidade)\n5. Licença paternidade\n6. Licença para tratamento de saúde em caso de acidente de serviço\n7. Licença especial"
+   },{ 
+      id: 76,
+      aluno: "116",
+      front: "Qual o período da licença à gestante prevista no Estatuto dos Militares da Bahia?", 
+      back: "A licença à gestante (licença maternidade) no Estatuto dos Militares da Bahia é de 180 dias (6 meses), podendo ser dividida entre o período pré e pós-parto, conforme a regulamentação do estatuto."
+   },{
       id: 33,
       aluno: "117",
       front: "Quais são os tipos de autonomia dos estados federados segundo a Constituição Federal?",
@@ -294,23 +325,13 @@ export const flashCards = [
    },{ 
       id: 53,
       aluno: "125",
-      front: "QUAIS SÃO AS 4 CAUSAS DE PERDA DO CARGO PARA O SERVIDOR PÚBLICO ESTÁVEL?", 
-      back: "APÓS SENTENÇA JUDICIAL TRANSITADA EM JULGADO;  PROCESSO ADMINISTRATIVO;  AVALIAÇÃO PERIÓDICA DE DESEMPENHO; OU QUANDO Extinto o cargo ou declarada a sua desnecessidade. "
+      front: "Quais são as 4 causas de perda do cargo para o Servidor Público Estável?", 
+      back: "Após sentença judicial transitada em julgado;\nProcesso Administrativo;\nAvaliação periódica de desempenho;\nOu quando extindo o cargo ou declarada a sua desnecessidade."
    },{ 
       id: 54,
       aluno: "125",
       front: "NO CASO DE EXTINÇÃO DO CARGO PÚBLICO OU DECLARAÇÃO DE SUA DESNECESSIDADE, O QUE OCORRE COM O SERVIDOR ESTÁVEL?", 
       back: "Ficará em disponibilidade, com remuneração proporcional ao tempo de serviço, até seu adequado aproveitamento em outro cargo."
-   },{ 
-      id: 55,
-      aluno: "101",
-      front: "Sobre os direitos políticos, Quem são inelegíveis?", 
-      back: "Os inalistáveis (estrangeiros e conscritos) e os analfabetos."
-   },{ 
-      id: 56,
-      aluno: "101",
-      front: "O alistamento eleitoral e o voto são facultativos para:", 
-      back: "• Os analfabetos.\n• Os maiores de setenta (70) anos.\n• Os maiores de dezesseis e menores de dezoito anos."
    },{ 
       id: 57,
       aluno: "126",
@@ -391,27 +412,7 @@ export const flashCards = [
       aluno: "132",
       front: "Como é organizada a administração nos Territórios Federais com mais de cem mil habitantes?", 
       back: "Nos Territórios Federais com mais de cem mil habitantes, além do Governador nomeado, haverá órgãos judiciários de primeira e segunda instância, membros do Ministério Público e defensores públicos federais. Também serão realizadas eleições para a Câmara Territorial, que terá competência deliberativa, conforme definido em lei."
-   },{ 
-      id: 73,
-      aluno: "106",
-      front: "Quais os principios gerais do direito?", 
-      back: "• Legalidade\n• Igualdade\n• Boa-fé\n• Segurança Juridica\n• Proporcionalidade"
-   },{ 
-      id: 74,
-      aluno: "106",
-      front: "Quais os principios gerais do direito constitucional?", 
-      back: "• Supremacia da constituição\n• Dignidade da Pessoa Humana\n• Separação dos Poderes\n• Democracia\n• Legalidade"
-  },{ 
-      id: 75,
-      aluno: "116",
-      front: "Quais são os tipos de licença previstos no Estatuto dos Militares da Bahia?", 
-      back: "1. Licença para tratar de interesses particulares\n2. Licença médica\n3. Licença por motivo de doença em pessoa da família\n4. Licença à gestante (licença maternidade)\n5. Licença paternidade\n6. Licença para tratamento de saúde em caso de acidente de serviço\n7. Licença especial"
-  },{ 
-      id: 76,
-      aluno: "116",
-      front: "Qual o período da licença à gestante prevista no Estatuto dos Militares da Bahia?", 
-      back: "A licença à gestante (licença maternidade) no Estatuto dos Militares da Bahia é de 180 dias (6 meses), podendo ser dividida entre o período pré e pós-parto, conforme a regulamentação do estatuto."
-  }
+   }
 ];
 
 export const alunos:{ [key: string]: string } = {
@@ -440,7 +441,7 @@ export const alunos:{ [key: string]: string } = {
   "122":"AL SD BM JADE",
   "123":"AL SD BM JAQUELINE",
   "124":"AL SD BM JARED",
-  "125":"AL SD BM JESSICA",
+  "125":"AL SD BM JÉSSICA",
   "126":"AL SD BM JOÃO GABRIEL",
   "127":"AL SD BM JOÃO SOUZA",
   "128":"AL SD BM SODRÉ",
