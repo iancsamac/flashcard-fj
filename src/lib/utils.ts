@@ -6,23 +6,24 @@ export function cn(...inputs: ClassValue[]) {
 }
 
 export const flashCards = [
+  
   {
       id: 1,
-      aluno: "102",
-      front: "Quais são as consequências para agentes públicos que cometem atos de improbidade administrativa?",
-      back: "Os atos de improbidade, conforme a Lei nº 8.429/1992, podem resultar em perda da função pública, suspensão dos direitos políticos, multa civil e ressarcimento ao erário, desde que haja dolo. A EC 115/2022 retirou a menção à improbidade do art. 37, § 4º, da CF."
-  },
-  {
-      id: 2,
-      aluno: "102",
+      aluno: "100",
       front: "Aos servidores titulares de cargos EFETIVOS da União, dos Estados, do DF e dos Municípios, são formas de aposentadoria:",
       back: "I- por invalidez permanente;\nII- compulsoriamente aos 70 anos;\nIII- voluntariamente, desde que cumprido tempo mínimo de dez (10) anos de efetivo exercício no serviço público e cinco (5) anos no cargo."
   },
   {
-      id: 3,
+      id: 2,
       aluno: "100",
       front: "Acerca dos Servidores Públicos da União, DF, estados e municípios, a fixação dos padrões de vencimento deverá observar a quais critérios?",
-      back: "I - por invalidez permanente.\n II- compulsoriamente aos 70 anos.\n III- voluntariamente, desde que cumprido tempo mínimo de dez (10) anos de efetivo exercício no serviço público e cinco (5) anos no cargo."
+      back: "I- a natureza, o grau de responsabilidade e a complexidade dos cargos de cada carreira;\nII- os requisitos para  a investidura;\nIII- as peculiaridades do cargo."
+  },
+  {
+    id: 3,
+    aluno: "102",
+    front: "Quais são as consequências para agentes públicos que cometem atos de improbidade administrativa?",
+    back: "Os atos de improbidade, conforme a Lei nº 8.429/1992, podem resultar em perda da função pública, suspensão dos direitos políticos, multa civil e ressarcimento ao erário, desde que haja dolo. A EC 115/2022 retirou a menção à improbidade do art. 37, § 4º, da CF."
   },
   {
       id: 4,
@@ -170,7 +171,7 @@ export const flashCards = [
   },
   {
       id: 28,
-      aluno: "113",
+      aluno: "114",
       front: "Complete a sentença:\nA fiscalização do Município será exercida pelo Poder ___ Municipal, mediante ____ e pelos sistemas de ____ do Poder ____ Municipal.",
       back: "legislativo, controle externo, controle interno, executivo"
   },
@@ -185,18 +186,6 @@ export const flashCards = [
       aluno: "115",
       front: "Em que situações o Estado pode ser responsabilizado por danos causados a terceiros?",
       back: "Quando houver ação ou omissão de agente público que cause prejuízo a terceiros, sendo aplicada a responsabilidade objetiva"
-  },
-  {
-      id: 31,
-      aluno: "113",
-      front: "Quais são os tipos de licença previstos no Estatuto dos Militares da Bahia?",
-      back: "1. Licença para tratar de interesses particulares\n2. Licença médica\n3. Licença por motivo de doença em pessoa da família\n4. Licença à gestante (licença maternidade)\n5. Licença paternidade\n6. Licença para tratamento de saúde em caso de acidente de serviço\n7. Licença especial"
-  },
-  {
-      id: 32,
-      aluno: "113",
-      front: "Qual o período da licença à gestante prevista no Estatuto dos Militares da Bahia?",
-      back: "A licença à gestante (licença maternidade) no Estatuto dos Militares da Bahia é de 180 dias (6 meses), podendo ser dividida entre o período pré e pós-parto, conforme a regulamentação do estatuto."
   },
   {
       id: 33,
@@ -218,7 +207,7 @@ export const flashCards = [
   },
   {
       id: 36,
-      aluno: "113",
+      aluno: "118",
       front: "São competências materiais COMUNS da União, Estados, Distrito Federal e Municípios?",
       back: "- Zelar pela guarda da Constituição.\n- Cuidar da saúde e assistência, da proteção e garantia das pessoas com deficiências\n- Impedir a evasão, a destruição e a descaracterização de obras de arte.\n- Proteger o meio ambiente e combater a poluição.\n- Preservar as florestas, a fauna e a flora.\n- Fomentar a produção agropecuária\n- Promover programas de construção de moradia."
   },
@@ -331,7 +320,7 @@ export const flashCards = [
       id: 58,
       aluno: "126",
       front: "Como é estruturada a hierarquia dentro do CBMBA?", 
-      back: "A hierarquia segue uma organização baseada em patentes, onde os bombeiros são distribuídos em diferentes níveis de comando. Essa estrutura garante disciplina, coordenação eficiente das operações e cumprimento das ordens de forma organizada, respeitando a cadeia de comando estabelecida."
+      back: "A hierarquia segue uma organização baseada em postos e graduações, onde os bombeiros são distribuídos em diferentes níveis de comando. Essa estrutura garante disciplina, coordenação eficiente das operações e cumprimento das ordens de forma organizada, respeitando a cadeia de comando estabelecida."
    },{ 
       id: 59,
       aluno: "127",

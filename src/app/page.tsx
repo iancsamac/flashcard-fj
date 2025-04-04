@@ -78,7 +78,7 @@ export default function FlashcardsPage() {
                     flippedCards[card.id] ? 'rotate-y-180 opacity-100' : 'rotate-y-180 opacity-0'
                   }`}
                 >
-                  <div className='flex bg-white w-full p-2 font-bold'>
+                  <div className='flex bg-white w-full p-2 font-bold text-lg'>
 
                   {card.back}
                   </div>
